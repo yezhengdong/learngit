@@ -9,3 +9,6 @@ add remote repo.
 test push.
 
 Create a new branch is quick and simple.
+
+Test merge without ff.
+
