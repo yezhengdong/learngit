@@ -8,4 +8,4 @@ add remote repo.
 
 test push.
 
-Create a new branch is quick & simple.
+Create a new branch is quick and simple.
