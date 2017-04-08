@@ -7,3 +7,5 @@ My stupid boss still prefers SVN.
 add remote repo.
 
 test push.
+
+Create a new branch is quick.
